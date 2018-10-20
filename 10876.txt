@@ -12,7 +12,7 @@ Title: At Sunwich Port, Complete
 Author: W.W. Jacobs
 
 Release Date: October 29, 2006 [EBook #10876]
-Last Updated: March 30, 2012
+Last Updated: September 15, 2015
 
 Language: English
 
@@ -323,7 +323,7 @@ Ann changed the jugs, and, ignoring a mild triumph in Mr. Wilks's eye, returned 
 
 "Sam likes beer," she said, speaking generally.
 
-"I knew that the first time I see him, Miss," re-marked the vindictive Ann.
+"I knew that the first time I see him, Miss," remarked the vindictive Ann.
 
 Mr. Wilks drained his glass and set it down on the table again, making a feeble gesture of repulse as Miss Nugent refilled it.
 
@@ -521,9 +521,9 @@ CHAPTER III
 
 If anything was wanted to convince Captain Nugent that his action had been foolish and his language intemperate it was borne in upon him by the subsequent behaviour of Master Hardy. Generosity is seldom an attribute of youth, while egotism, on the other hand, is seldom absent. So far from realizing that the captain would have scorned such lowly game, Master Hardy believed that he lived for little else, and his Jack-in-the-box ubiquity was a constant marvel and discomfort to that irritable mariner. Did he approach a seat on the beach, it was Master Hardy who rose (at the last moment) to make room for him. Did he stroll down to the harbour, it was in the wake of a small boy looking coyly at him over his shoulder. Every small alley as he passed seemed to contain a Jem Hardy, who whizzed out like a human firework in front of him, and then followed dancing on his toes a pace or two in his rear.
 
-This was on week-days; on the Sabbath Master Hardy's daring ingenuity led him to still further flights. All the seats at the parish church were free, but Captain Nugent, whose admirable practice it was to take his entire family to church, never thoroughly realized how free they were until Master Hardy squeezed his way in and, taking a seat next to him, prayed with unwonted fervour into the interior of a new hat, and then sitting back watched with polite composure the efforts of Miss Nugent's family to re-strain her growing excitement.
+This was on week-days; on the Sabbath Master Hardy's daring ingenuity led him to still further flights. All the seats at the parish church were free, but Captain Nugent, whose admirable practice it was to take his entire family to church, never thoroughly realized how free they were until Master Hardy squeezed his way in and, taking a seat next to him, prayed with unwonted fervour into the interior of a new hat, and then sitting back watched with polite composure the efforts of Miss Nugent's family to restrain her growing excitement.
 
-Charmed with the experiment, he repeated it the following Sunday. This time he boarded the seat from the other end, and seeing no place by the captain, took one, or more correctly speaking made one, between Miss Nugent and Jack, and despite the former's elbow began to feel almost like one of the family. Hostile feelings vanished, and with an amiable smile at the half-frantic Miss Nugent he placed a "bull's-eye" of great strength in his cheek, and leaning forward for a hymn-book left one on the ledge in front of jack. A double-distilled perfume at once assailed the atmosphere.
+Charmed with the experiment, he repeated it the following Sunday. This time he boarded the seat from the other end, and seeing no place by the captain, took one, or more correctly speaking made one, between Miss Nugent and Jack, and despite the former's elbow began to feel almost like one of the family. Hostile feelings vanished, and with an amiable smile at the half-frantic Miss Nugent he placed a "bull's-eye" of great strength in his cheek, and leaning forward for a hymn-book left one on the ledge in front of Jack. A double-distilled perfume at once assailed the atmosphere.
 
 Miss Nugent sat dazed at his impudence, and for the first time in her life doubts as to her father's capacity stirred within her. She attempted the poor consolation of an "acid tablet," and it was at once impounded by the watchful Mrs. Kingdom. Mean-time the reek of "bull's-eyes" was insufferable.
 
@@ -721,7 +721,7 @@ One captain agreed with him.
 
 "Why don't they act like it, then?" demanded the other.
 
-Nugent and the first captain, struck by the re-mark, thought they had perhaps been too hasty in their admission, and waited for number two to continue. They eyed him with silent encouragement.
+Nugent and the first captain, struck by the remark, thought they had perhaps been too hasty in their admission, and waited for number two to continue. They eyed him with silent encouragement.
 
 "Why don't they act like it, then?" repeated number two, who, being a man of few ideas, was not disposed to waste them.
 
@@ -831,7 +831,7 @@ The captain threw himself into an easy-chair, and with one eye on the clock, wai
 
 "Punctual to the minute, John," said Mrs. Kingdom, as she took her seat at the tray. "It's wonderful how that girl has improved since you've been at home. She isn't like the same girl."
 
-She raised the teapot and, after pouring out a little of the contents, put it down again and gave it another two minutes. At the end of that time, the colour being of the same unsatisfactory paleness, she set the pot down and was about to raise the lid when an avalanche burst into the room and, emptying some tea into the pot from a canister-lid, beat a hasty re-treat.
+She raised the teapot and, after pouring out a little of the contents, put it down again and gave it another two minutes. At the end of that time, the colour being of the same unsatisfactory paleness, she set the pot down and was about to raise the lid when an avalanche burst into the room and, emptying some tea into the pot from a canister-lid, beat a hasty retreat.
 
 "Good tea and well-trained servants," muttered the captain to his plate. "What more can a man want?"
 
@@ -1060,7 +1060,7 @@ Mr. Wilks flushed with gratified pride. He had a vision of himself walking up to
 
 Mr. Wilks thanked him and, spurred on to hospitality, murmured something about a glass of ale, and retired to the back to draw it. He came back with a jug and a couple of glasses, and draining his own at a draught, hoped that the example would not be lost upon his visitor. That astute person, however, after a modest draught, sat still, anchored to the half-empty glass.
 
-"I'm expecting somebody to-night," said the ex-steward, at last.
+"I'm expecting somebody tonight," said the ex-steward, at last.
 
 "No doubt you have a lot of visitors," said the other, admiringly.
 
@@ -1139,7 +1139,7 @@ Their talk was mainly of Sunwich and Sunwich people, and it was an easy step fro
 
 Jem Hardy paid a return call on the following Friday, and had no cause to complain of any lack of warmth in his reception. The ex-steward was delighted to see him, and after showing him various curios picked up during his voyages, took him to the small yard in the rear festooned with scarlet-runner beans, and gave him a chair in full view of the neighbours.
 
-"I'm the only visitor to-night?" said Hardy, after an hour's patient listening and waiting.
+"I'm the only visitor tonight?" said Hardy, after an hour's patient listening and waiting.
 
 Mr. Wilks nodded casually. "Miss Kate came last night," he said. "Friday is her night, but she came yesterday instead."
 
@@ -1147,7 +1147,7 @@ Mr. Hardy said, "Oh, indeed," and fell straight-way into a dismal reverie from w
 
 Without giving way to undue egotism it was pretty clear that Miss Nugent had changed her plans on his account, and a long vista of pleasant Friday evenings suddenly vanished. He, too, resolved to vary his visits, and, starting with a basis of two a week, sat trying to solve the mathematical chances of selecting the same as Kate Nugent; calculations which were not facilitated by a long-winded account from Mr. Wilks of certain interesting amours of his youthful prime.
 
-Before he saw Kate Nugent again, however, another old acquaintance turned up safe and sound in Sunwich. Captain Nugent walking into the town saw him first: a tall, well-knit young man in shabby clothing, whose bearing even in the distance was oddly familiar. As he came closer the captain's misgivings were confirmed, and in the sunburnt fellow in tattered clothes who advanced upon him with out-stretched hand he reluctantly recognized his son.
+Before he saw Kate Nugent again, however, another old acquaintance turned up safe and sound in Sunwich. Captain Nugent walking into the town saw him first: a tall, well-knit young man in shabby clothing, whose bearing even in the distance was oddly familiar. As he came closer the captain's misgivings were confirmed, and in the sunburnt fellow in tattered clothes who advanced upon him with outstretched hand he reluctantly recognized his son.
 
 "What have you come home for?" he inquired, ignoring the hand and eyeing him from head to foot.
 
@@ -1277,7 +1277,7 @@ Mr. Kybird paid no heed. He was still thinking of the son of Captain Nugent bein
 
 The other hesitated a moment and then, with a light laugh, accepted the offer. He followed them into the small and untidy back parlour, and being requested by his hostess to squeeze in next to 'Melia at the small round table, complied so literally with the order that that young lady complained bitterly of his encroachments.
 
-"And where do you think of sleeping to-night?" inquired Mr. Kybird after his daughter had, to use her own expressive phrase, shown the guest "his place."
+"And where do you think of sleeping tonight?" inquired Mr. Kybird after his daughter had, to use her own expressive phrase, shown the guest "his place."
 
 Mr. Nugent shook his head. "I shall get a lodging somewhere," he said, airily.
 
@@ -1293,7 +1293,7 @@ Mr. Nugent thanked him, and after making a tea which caused Mr. Kybird to congra
 
 "I shall get it sooner or later," said Mr. Kybird. "That stuck-up father of 'is 'll be in a fine way at 'im living here. That's wot I'm thinking of."
 
-"I don't see why," said Mrs. Kybird, bridling. "Who's Captain Nugent, I should like to know? We're as good as what 'e is, if not better. And as for the gell, if she'd got 'all Amelia's looks she'd do."
+"I don't see why," said Mrs. Kybird, bridling. "Who's Captain Nugent, I should like to know? We're as good as what 'e is, if not better. And as for the gell, if she'd got 'alf Amelia's looks she'd do."
 
 "'Melia's a fine-looking gal," assented Mr. Kybird. "I wonder----"
 
@@ -1488,7 +1488,7 @@ Mr. Silk thrust him fiercely to one side and passed raging through the shop. The
 
 "Bar none," said Mr. Kybird, emphatically.
 
-The stout lady in the chair gazed ax the couple fondly. "It reminds me of our wedding," she said, softly. "What was it Tom Fletcher said, father? Can you remember?"
+The stout lady in the chair gazed at the couple fondly. "It reminds me of our wedding," she said, softly. "What was it Tom Fletcher said, father? Can you remember?"
 
 "'Arry Smith, you mean," corrected Mr. Kybird.
 
@@ -1509,7 +1509,7 @@ The news of his only son's engagement took Captain Nugent's breath away, which, 
 
 His son bore his new honours bravely. To an appealing and indignant letter from his sister he wrote gravely, reminding her of the difference in their years, and also that he had never interfered in her flirtations, however sorely his brotherly heart might have been wrung by them. He urged her to forsake such diversions for the future, and to look for an alliance with some noble, open-handed man with a large banking account and a fondness for his wife's relatives.
 
-To Jem Hardy, who ventured on a delicate re-monstrance one evening, he was less patient, and displayed a newly acquired dignity which was a source of considerable embarrassment to that well-meaning gentleman. He even got up to search for his hat, and was only induced to resume his seat by the physical exertions of his host.
+To Jem Hardy, who ventured on a delicate remonstrance one evening, he was less patient, and displayed a newly acquired dignity which was a source of considerable embarrassment to that well-meaning gentleman. He even got up to search for his hat, and was only induced to resume his seat by the physical exertions of his host.
 
 "I didn't mean to be offensive," said the latter. "But you were," said the aggrieved man. Hardy apologized.
 
@@ -1659,9 +1659,7 @@ Mr. Wilks, who was taking another draught of beer, put the glass down and eyed h
 
 "I don't want to live, and you do, and yet I dessay I shall be walking about forty and fifty years after you're dead and forgotten."
 
-"Wot d'ye mean--near the grave?" inquired
-
-Mr. Wilks, somewhat shortly.
+"Wot d'ye mean--near the grave?" inquired Mr. Wilks, somewhat shortly.
 
 "I was referring to your age," replied the other; "it's strange to see 'ow the aged 'ang on to life. You can't 'ave much pleasure at your time o' life. And you're all alone; the last withered branch left."
 
@@ -1675,7 +1673,7 @@ Mr. Wilks, somewhat shortly.
 
 "Teddy!" protested Mrs. Silk.
 
-"It's true, mother," said the melancholy youth. "Mr. Wilks is old. Why should 'e mind being told of it? If 'e had 'ad the trouble I've 'ad 'e'd be glad to go. But he'll 'ave to go, whether 'e likes it or not. It might be to-night. Who can tell?"
+"It's true, mother," said the melancholy youth. "Mr. Wilks is old. Why should 'e mind being told of it? If 'e had 'ad the trouble I've 'ad 'e'd be glad to go. But he'll 'ave to go, whether 'e likes it or not. It might be tonight. Who can tell?"
 
 Mr. Wilks, unasked, poured himself out another glass of ale, and drank it off with the air of a man who intended to make sure of that. It seemed a trifle more flat than the last.
 
@@ -1927,7 +1925,7 @@ Mr. Kybird shook his head, and, catching her eye, winked at her with much signif
 
 "'Ave it your own way," said Mrs. Kybird, who was always inclined to make concessions in minor matters. "'Ave it your own way, but don't blame me, that's all I ask."
 
-Urged on by his friends Mr. Nugent at last consented, and, in a reply to his father, agreed to meet him at the house of Mr. Wilks on Thursday evening. He was not free him-self from a slight curiosity as to the reasons which had made the captain unbend in so unusual a fashion.
+Urged on by his friends Mr. Nugent at last consented, and, in a reply to his father, agreed to meet him at the house of Mr. Wilks on Thursday evening. He was not free himself from a slight curiosity as to the reasons which had made the captain unbend in so unusual a fashion.
 
 Mr. Nathan Smith put in an appearance at six o'clock on the fatal evening. He was a short, slight man, with a clean-shaven face mapped with tiny wrinkles, and a pair of colourless eyes the blankness of whose expression defied research. In conversation, especially conversation of a diplomatic nature, Mr. Smith seemed to be looking through his opponent at something beyond, an uncomfortable habit which was a source of much discomfort to his victims.
 
@@ -1991,7 +1989,7 @@ Mr. Wilks withdrew grumbling, and came back in a wonderfully short space of time
 
 "Where's the beer?" demanded the incensed Mr. Wilks; "where's the beer, you underhanded swab?"
 
-"I altered my mind," said Mr. Smith, "and not liking waste, and seeing by your manner that you've 'ad more than enough already to-night, I drunk it. There isn't another man in Sunwich I could ha' played that trick on, no, nor a boy neither."
+"I altered my mind," said Mr. Smith, "and not liking waste, and seeing by your manner that you've 'ad more than enough already tonight, I drunk it. There isn't another man in Sunwich I could ha' played that trick on, no, nor a boy neither."
 
 Mr. Wilks was about to speak, but, thinking better of it, threw the three spoons in the kitchen, and resuming his seat by the fire sat with his back half turned to his visitor.
 
@@ -2460,7 +2458,7 @@ The captain, who was resting from his labours in the chart-room, received him wi
 
 Captain Nugent stared at him with his lips parted. Three times he essayed to speak and failed; then he turned sharply and, gaining the open air, stood for some time trying to regain his composure before going forward again. The first mate, who was on the bridge, regarded him curiously, and then, with an insufferable air of authority, ordered him away.
 
-The captain obeyed mechanically and, turning a deaf ear to the inquiries of the men, prepared to make the best of an intolerable situation, and began to cleanse his bunk. First of all he took out the bedding and shook it thoroughly, and then, pro-curing soap and a bucket of water, began to scrub with a will. Hostile comments followed the action.
+The captain obeyed mechanically and, turning a deaf ear to the inquiries of the men, prepared to make the best of an intolerable situation, and began to cleanse his bunk. First of all he took out the bedding and shook it thoroughly, and then, procuring soap and a bucket of water, began to scrub with a will. Hostile comments followed the action.
 
 "We ain't clean enough for 'im," said one voice.
 
@@ -2963,8 +2961,6 @@ It is the pride and privilege of most returned wanderers to hold forth at great 
 
 "Poor father," she said, tenderly; "what a time you must have had." "It won't bear thinking of," said Mrs. Kingdom, not to be outdone in sympathy.
 
-"He met these annoyances with a set face."
-
 "Well, don't think of it," said the captain, shortly.
 
 Mrs. Kingdom sighed as though to indicate that her feelings were not to be suppressed in that simple fashion.
@@ -3041,8 +3037,6 @@ A long figure approaching slowly from the opposite direction broke into a pleasa
 "'Ave to be, sir," said Mr. Wilks, darkly; "out early and 'ome late, and more often than not getting my dinner out. That's my life nowadays."
 
 "Can't you let her see that her attentions are undesirable?" inquired Hardy, gravely.
-
-"Can't you let her see that her attentions are undesirable?"
 
 "I can't be rude to a woman," said the steward, with a melancholy smile; "if I could, my life would ha' been very different. She's always stepping across to ask my advice about Teddy, or something o' that sort. All last week she kept borrowing my frying-pan, so at last by way of letting 'er see I didn't like it I went out and bought 'er one for herself. What's the result? Instead o' being offended she went out and bought me a couple o' neck-ties. When I didn't wear 'em she pretended it was because I didn't like the colour, and she went and bought two more. I'm wearing one now."
 
@@ -3144,7 +3138,7 @@ With frequent halts by the way, during which the shortness of Mr. Silk's temper 
 
 She moved the chair to let him pass, and Mr. Wilks, still keeping the restraining hand of age on the shoulder of intemperate youth, passed in and stood, smiling amiably, while Mrs. Silk lit the lamp and placed it in the centre of the table, which was laid for supper. The light shone on a knuckle of boiled pork, a home-made loaf, and a fresh-cut wedge of cheese.
 
-"I suppose you won't stay and pick a bit o' sup-per with us?" said Mrs. Silk.
+"I suppose you won't stay and pick a bit o' supper with us?" said Mrs. Silk.
 
 "Why not?" inquired Mr. Wilks.
 
@@ -3539,7 +3533,7 @@ The captain received the new arrival with marked cordiality, and giving him a ch
 
 For some time they chatted without interruption, and the captain's replies, when Hardy at last made an attempt to make the conversation general, enabled the doctor to see, without much difficulty, that the latter was an unwelcome guest. Charmed with the discovery he followed his host's lead, and, with a languid air, replied to his rival in monosyllables. The captain watched with quiet satisfaction, and at each rebuff his opinion of Murchison improved. It was gratifying to find that the interloper had met his match.
 
-Hardy sat patient. "I am glad to have met you to-night," he said, after a long pause, during which the other two were discussing a former surgical experience of the captain's on one of his crew.
+Hardy sat patient. "I am glad to have met you tonight," he said, after a long pause, during which the other two were discussing a former surgical experience of the captain's on one of his crew.
 
 "Yes?" said Murchison.
 
@@ -3682,7 +3676,7 @@ He took another draught. "Thirty years is a long time," he mused.
 
 He finished the glass. "And if 'e don't give me something out of it I'll do 'im as much 'arm as I can," he continued; and, buttoning up his coat, he rose and set out in the direction of the High Street.
 
-The rain had ceased and the sun was making faint efforts to break through watery clouds. Things seemed brighter, and Mr. Smith's heart beat in response. He was going to play the part of a benefactor to Mr. Kybird; to offer him access, at any rate, to such wealth as he had never dreamed of. He paused at the shop window, and, observing through a gap in the merchandise that Mr. Kybird was be-hind the counter, walked in and saluted him.
+The rain had ceased and the sun was making faint efforts to break through watery clouds. Things seemed brighter, and Mr. Smith's heart beat in response. He was going to play the part of a benefactor to Mr. Kybird; to offer him access, at any rate, to such wealth as he had never dreamed of. He paused at the shop window, and, observing through a gap in the merchandise that Mr. Kybird was behind the counter, walked in and saluted him.
 
 "I've got news for you," he said, slowly; "big news."
 
@@ -3784,7 +3778,7 @@ Mr. Kybird thrust his handkerchief into his tail-pocket, and all the father awok
 
 "And when'll that be?" inquired his friend, in a calmer voice.
 
-"Any time," said the boarding-master, shrugging his shoulders. "The old gentleman might go out to-night, or again 'e might live on for a week or more. 'E was so weak 'e couldn't 'ardly sign 'is name."
+"Any time," said the boarding-master, shrugging his shoulders. "The old gentleman might go out tonight, or again 'e might live on for a week or more. 'E was so weak 'e couldn't 'ardly sign 'is name."
 
 "I 'ope 'e 'as signed it all right," said Mr. Kybird, starting.
 
@@ -3810,7 +3804,7 @@ Mr. Kybird shivered. "It takes time to get married, though," he objected.
 
 "Well, wot's to be done, then?" inquired the staring Mr. Kybird.
 
-"Send 'em up to London and 'ave 'em married by special license," said Mr. Smith, speaking rapidly--"to-morrow, if possible; if not, the day after. Go and pitch a tale to Teddy to-night, and make 'im understand it's to be done on the strict q.t."
+"Send 'em up to London and 'ave 'em married by special license," said Mr. Smith, speaking rapidly--"to-morrow, if possible; if not, the day after. Go and pitch a tale to Teddy tonight, and make 'im understand it's to be done on the strict q.t."
 
 "Special licenses cost money," said Mr. Kybird. "I 'ave 'eard it's a matter o' thirty pounds or thereabouts."
 
@@ -3822,7 +3816,7 @@ Mr. Nathan Smith rose, and his eyes were almost expressive. He nodded good-night
 
 "Sit down," urged Mr. Kybird. "You can't expect us to be as quick in seeing things as wot you are."
 
-He pushed his partly mollified friend into his chair again, and taking a seat next him began to view the affair with enthusiasm. "'Melia shall turn young Nugent off to-night," he said, firmly.
+He pushed his partly mollified friend into his chair again, and taking a seat next him began to view the affair with enthusiasm. "'Melia shall turn young Nugent off tonight," he said, firmly.
 
 "That's right," said the other; "go and do a few more silly things like that and we shall be 'appy. If you'd got a 'ead instead of wot you 'ave got, you wouldn't talk of giving the show away like that. Nobody must know or guess about anything until young Teddy is married to 'Melia and got the money."
 
@@ -4014,7 +4008,7 @@ He paused at the door, and after a brief intimation that he would send for his e
 
 Mr. Nugent had not been in such spirits since his return to Sunwich, and, hardly able to believe in his good fortune, he walked on in a state of growing excitement until he was clear of the town. Then he stopped to consider his next move, and after a little deliberation resolved to pay a visit to Jem Hardy and acquaint him with the joyful tidings.
 
-That gentleman, however, was out, and Mr. Nugent, somewhat irritated at such thoughtlessness, stood in the road wondering where to go next. It was absolutely impossible for him to sleep that night without telling the good news to somebody, and after some thought he selected Mr. Wilks. It was true that relations had been somewhat strained between them since the latter's attempt at crimping him, but he was never one to bear malice, and to-night he was full of the kindliest thoughts to all mankind.
+That gentleman, however, was out, and Mr. Nugent, somewhat irritated at such thoughtlessness, stood in the road wondering where to go next. It was absolutely impossible for him to sleep that night without telling the good news to somebody, and after some thought he selected Mr. Wilks. It was true that relations had been somewhat strained between them since the latter's attempt at crimping him, but he was never one to bear malice, and tonight he was full of the kindliest thoughts to all mankind.
 
 He burst into Mr. Wilks's front room suddenly and then pulled up short. The steward, with a pitiable look of anxiety on his pallid features, was leaning awkwardly against the mantelpiece, and opposite him Mrs. Silk sat in an easy-chair, dissolved in tears.
 
@@ -4056,7 +4050,7 @@ Mr. Wilks cleared his throat and turned an agonized eye on Mr. Nugent. He would 
 
 "I won't be married by license," said Mrs. Silk, with sudden petulance; "leastways, I'd rather not be," she added, softening.
 
-Mr. Wilks took his handkerchief from his pocket and blew his nose violently. Mrs. Silk's methods of attack left him little opportunity for the plain speaking which was necessary to dispel illusions. He turned a watery, appealing eye on to Mr. Nugent, and saw to his surprise that that gentleman was winking at him with great significance and persistence. It would have needed a heart of stone to have been unaffected by such misery, and to-night Mr. Nugent, thankful for his own escape, was in a singularly merciful mood.
+Mr. Wilks took his handkerchief from his pocket and blew his nose violently. Mrs. Silk's methods of attack left him little opportunity for the plain speaking which was necessary to dispel illusions. He turned a watery, appealing eye on to Mr. Nugent, and saw to his surprise that that gentleman was winking at him with great significance and persistence. It would have needed a heart of stone to have been unaffected by such misery, and tonight Mr. Nugent, thankful for his own escape, was in a singularly merciful mood.
 
 "All this sounds as though you are going to be married," he said, turning to Mrs. Silk with a polite smile.
 
@@ -4404,7 +4398,7 @@ copied or distributed:
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
+reuse it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.net
 
 1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
